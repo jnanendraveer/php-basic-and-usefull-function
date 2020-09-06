@@ -1,4 +1,1 @@
-myproject
-=========
-
-This is first repository.
+Same basic function for PHP
